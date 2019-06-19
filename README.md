@@ -44,7 +44,7 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 
 ## Compression
 
--[LZ4](https://github.com/lz4/lz4) : one of the fastest compression/decompression library, really easy to integrate and play with
+- [LZ4](https://github.com/lz4/lz4) : one of the fastest compression/decompression library, really easy to integrate and play with
 
 ## Testing
 
