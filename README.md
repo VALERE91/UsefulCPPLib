@@ -4,7 +4,7 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 
 ## Core guidelines
 
-- [microsoft GSL](https://github.com/microsoft/GSL) : a must have in any modern project. I support the core guideline of C++ what is THE reference.
+- [microsoft GSL](https://github.com/microsoft/GSL) : a must have in any modern project. It supports the C++ core guideline what is THE reference.
 
 ## String
 
