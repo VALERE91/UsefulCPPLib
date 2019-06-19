@@ -33,3 +33,27 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 
 - [libuv](https://github.com/libuv/libuv) : an asynchronous library that enables file, networking and multi process management (in C check UVW just after for C++)
 - [UVW](https://github.com/skypjack/uvw) : a wrapper for libuv in modern C++. Must have if you need libuv and you are in modern C++
+
+## Arguments parsing
+
+- [cxxopts](https://github.com/jarro2783/cxxopts) : a simple library that enable the parsing of the command line arguments.
+
+## Scripting
+
+- [sol3](https://github.com/ThePhD/sol2) : a C++ Lua Wrapper. You will need the [lua](https://github.com/lua/lua) library but it is pretty straigthforward to integrate with CMake.
+
+## Compression
+
+-[LZ4](https://github.com/lz4/lz4) : one of the fastest compression/decompression library, really easy to integrate and play with
+
+## Testing
+
+- [Catch2](https://github.com/catchorg/Catch2) : Catch2 is my reference when I want to unit test my C++ code
+
+## Gaming
+
+- [EnTT](https://github.com/skypjack/entt) : Your ECS in modern C++. Already used by Mojang in Minecraft, its API is ultra modern, fast, easy to integrate and beautiful. Nothing else to say
+
+## Logging
+
+- [spdlog](https://github.com/gabime/spdlog) : a rather simple but extensible and ultra fast C++ logging library.
