@@ -11,6 +11,10 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 - [fmt](https://github.com/fmtlib/fmt) : an awsome string formatting library fast and with a really clear API
 - [strtk](https://github.com/ArashPartow/strtk) : a library that implement many string algorithms
 
+## Text templating
+
+- [inja](https://github.com/pantor/inja) : a powerful template engine. I use it to generate complex file (like HTML files) from C++. Cool performances.
+
 ## Databases
 
 - [sqlite3](https://www.sqlite.org/index.html) : a classic amongst classic. It's a C API but pretty easy to wrap in modern C++. It contains a .c and two .h you just have to add them to your build system.
