@@ -61,3 +61,7 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 ## Logging
 
 - [spdlog](https://github.com/gabime/spdlog) : a rather simple but extensible and ultra fast C++ logging library.
+
+## Data structures
+
+- [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) : a performance oriented implementation of the map. Highly recommended in certain use case where performance is highly important (game, finance).
