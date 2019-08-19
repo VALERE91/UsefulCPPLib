@@ -45,6 +45,7 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 ## Scripting
 
 - [sol3](https://github.com/ThePhD/sol2) : a C++ Lua Wrapper. You will need the [lua](https://github.com/lua/lua) library but it is pretty straigthforward to integrate with CMake.
+- [chaiscript](https://github.com/ChaiScript/ChaiScript) : a scripting language built for an easy integration in any C++ modern computer. Totally header only so really easy to integrate versus other librairies.
 
 ## Compression
 
