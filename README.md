@@ -6,6 +6,9 @@ This repositiory is simply a list of C++ librairies I often use in projects. The
 
 - [microsoft GSL](https://github.com/microsoft/GSL) : a must have in any modern project. It supports the C++ core guideline what is THE reference.
 
+## Threading
+- [enkiTS](https://github.com/dougbinks/enkiTS) : a multithreading task scheduler easily integrated with CMake
+
 ## String
 
 - [fmt](https://github.com/fmtlib/fmt) : an awsome string formatting library fast and with a really clear API
